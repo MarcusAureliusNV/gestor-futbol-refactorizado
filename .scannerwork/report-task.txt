@@ -1,0 +1,6 @@
+projectKey=RefactorizacionED
+serverUrl=http://localhost:8010
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:8010/dashboard?id=RefactorizacionED
+ceTaskId=2ec4c973-a899-4732-8242-df7af17c5f08
+ceTaskUrl=http://localhost:8010/api/ce/task?id=2ec4c973-a899-4732-8242-df7af17c5f08

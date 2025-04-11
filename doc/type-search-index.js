@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"practica_refactorizacion_casa","l":"GestorFutbol"}];updateSearchResults();
